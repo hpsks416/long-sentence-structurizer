@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/long-sentence-structurizer/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # long-sentence-structurizer
 
 当用户输入一段极其冗长、包含多级修饰语（"可...的...的..."）、主语宾语嵌套，或者隐含多个前置条件的需求描述时。
@@ -26,3 +28,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
